@@ -64,7 +64,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## Recursos de Aprendizagem
 
-- [Playlist de Vídeos de TypeScript no YouTube](https://www.youtube.com/watch?v=u7K1sdnC)
+- [Playlist de Vídeos de TypeScript no YouTube](https://www.youtube.com/watch?v=u7K1sdnCv5Y&list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H&ab_channel=GlauciaLemos)
 
 Esta playlist do YouTube contém uma série de vídeos de TypeScript ministrados por Glaucia Lemos. Os vídeos abordam diversos conceitos e tópicos relacionados ao TypeScript, desde noções básicas até recursos mais avançados. Eles podem ser uma ótima fonte de aprendizagem complementar para este projeto.
 
